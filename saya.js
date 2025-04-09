@@ -2,14 +2,12 @@ const profile = {
   nama: "Marselinus Jeffry Paramma",
   alamat: "Lr6A",
   instagram: "@mjep__",
-  umur: 22
 };
 
 console.log("=== Profil ===");
 console.log(`Nama: ${profile.nama}`);
 console.log(`Alamat: ${profile.alamat}`);
 console.log(`Instagram: ${profile.instagram}`);
-console.log(`Umur: ${profile.umur}`);
 
 /*document.addEventListener('DOMContentLoaded', () => {
   const app = document.getElementById('app') || document.body;
